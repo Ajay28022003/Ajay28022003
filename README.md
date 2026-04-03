@@ -23,4 +23,4 @@ I'm a Junior Developer at iproAT Solutions, passionate about building scalable s
 
 ### 📫 Let's Connect
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajay28022003&show_icons=true&theme=radical)
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay28022003&show_icons=true&theme=radical)
