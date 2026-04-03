@@ -22,3 +22,5 @@ I'm a Junior Developer at iproAT Solutions, passionate about building scalable s
 - 🏎️ Catching the latest F1 races or watching a football match.
 
 ### 📫 Let's Connect
+
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajay28022003&show_icons=true&theme=radical)
