@@ -1,6 +1,6 @@
 # Hi there, I'm Ajay 👋
 
-I'm a Junior Developer at iproAT Solutions, passionate about building scalable solutions and blending intuitive frontends with robust backends. 
+I'm a Junior Software Developer at iproAT Solutions, passionate about building scalable solutions and blending intuitive frontends with robust backends. 
 
 ### 🛠️ Tech Arsenal
 <p align="left">
@@ -12,15 +12,12 @@ I'm a Junior Developer at iproAT Solutions, passionate about building scalable s
 
 ### 🚀 What I'm Currently Up To
 - 💻 Building **InsightNest AI** and exploring new possibilities in the AI space.
-- 🏛️ Developing **Ancient Wisdom**, bringing classic concepts to life with React.
-- 🏢 Working on UI and kiosk experiences for the Dubai Exhibition Centre (DEC).
-- 🧠 Expanding my backend architecture skills with Go (Golang).
+- 🧠 Brainstorming my mind to improve problem solving skills.
+- 
 
 ### ⚡ Beyond the Keyboard
 - 🏍️ Cruising on my Royal Enfield Hunter 350.
-- 📖 Immersed in the *Thirukkural* and *Reverend Insanity*.
 - 🏎️ Catching the latest F1 races or watching a football match.
 
 ### 📫 Let's Connect
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajay28022003&show_icons=true&theme=radical)
