@@ -25,7 +25,6 @@ I'm a Junior Software Developer at iproAT Solutions, passionate about building s
 
 ### ⚡ Beyond the Keyboard
 - 🏍️ Cruising on my Royal Enfield Hunter 350 or traveling to new places.
-- 📈 Diving into personal finance and starting my SIP investment journey.
 - 🏎️ Catching the latest F1 races or watching a UEFA football match.
 - Curiously waiting for the World Cup 2026
 
